@@ -1,0 +1,4 @@
+github.com/excitedplus1s/gfwutils v0.0.3 h1:NdTtAesZhz88wJypgAUZZu7MNxRtIFc/5cc1afmdYug=
+github.com/excitedplus1s/gfwutils v0.0.3/go.mod h1:Lvn2nRMjEkqRYvnsIonGnnOYTZQ2+QPnmvtjMJqqBxY=
+golang.org/x/net v0.42.0 h1:jzkYrhi3YQWD6MLBJcsklgQsoAcw89EcZbJw8Z614hs=
+golang.org/x/net v0.42.0/go.mod h1:FF1RA5d3u7nAYA4z2TkclSCKh68eSXtiFwcWQpPXdt8=
